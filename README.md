@@ -1,4 +1,4 @@
-# itsjustmustafa - Projects
+# itsjustmustafa - [Projects](itsjustmustafa.github.io/projects)
 The main hub for projects by me.
 
 I mainly use:
